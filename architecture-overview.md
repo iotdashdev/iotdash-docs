@@ -23,7 +23,7 @@ The local section mainly consists of
   * Runs on IoT devices such as sensors etc
   * Connected to verifier via Bluetooth/socket
 
-## Web App Deployment:
+## Hosting:
 
 * Frontend: Firebase
 * Backend: Heroku
