@@ -22,8 +22,9 @@
 
 ## Local Python Server
 
+* [Integration](local-python-server/integration.md)
+
 ---
 
-* [Untitled](untitled/README.md)
-  * [Integration](untitled/integration.md)
+* [Untitled](untitled.md)
 
