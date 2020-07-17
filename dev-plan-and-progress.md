@@ -34,7 +34,7 @@ description: Kun's progress and plan.
 
 * [ ] Modify local python script on raspberry-pi to accept http request from cloud ❗
   * [ ] Try this method: [https://stackoverflow.com/questions/7023052/configure-flask-dev-server-to-be-visible-across-the-network](https://stackoverflow.com/questions/7023052/configure-flask-dev-server-to-be-visible-across-the-network)
-* [ ] Deploy the system in **Singapore** \(Current DB and backend are hosting at U.S, slow connection\)
+* [ ] Deploy the system in **Singapore** \(Current DB and backend are hosting at U.S, slow connection\) 😅
 * [ ] Security 😅
   * [ ] Add token verification for http request
   * [ ] Limit MongoDB access to only backend hosting address
