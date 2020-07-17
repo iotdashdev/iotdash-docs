@@ -21,7 +21,3 @@
 * [Command APIs](apis/command-apis.md)
 * [Authentication APIs](apis/user-apis.md)
 
----
-
-* [index](untitled.md)
-
