@@ -1,6 +1,6 @@
 # Architecture Overview
 
-The whole system can be separated into two parts, the web-cloud and local.  The cloud consists of modules serving a web application. The local, consists of python scripts running on lab machine and respberry-pi.
+The whole system is separated into two parts, the web-cloud and local.  The cloud consists of modules serving a web application. The local, consists of python scripts running on lab machine and respberry-pi.
 
 
 
