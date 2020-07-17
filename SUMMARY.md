@@ -1,9 +1,9 @@
 # Table of contents
 
 * [Introduction](README.md)
+* [Dev Plan & Progress](dev-plan-and-progress.md)
 * [Architecture](architecture-overview.md)
 * [Install & Run](install-and-run.md)
-* [Dev Plan & Progress](dev-plan-and-progress.md)
 
 ## Frontend
 
