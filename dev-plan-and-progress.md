@@ -27,6 +27,7 @@ description: Development Plan Progress and plan from KUN
 
 * [ ] Modify local python script on raspberry-pi to accept http request from cloud
   * [ ] Try this method: [https://stackoverflow.com/questions/7023052/configure-flask-dev-server-to-be-visible-across-the-network](https://stackoverflow.com/questions/7023052/configure-flask-dev-server-to-be-visible-across-the-network)
+* [ ] Deploy the system in **Singapore** \(Current DB and backend are hosting at U.S, slow connection\)
 
 ## Week 12 \(27th - 31th, July\)
 
