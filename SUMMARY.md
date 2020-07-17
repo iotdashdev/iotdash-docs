@@ -7,7 +7,7 @@
 ## Frontend
 
 * [Overview](frontend/overview.md)
-* [Architecture](frontend/architecture.md)
+* [Deployment](frontend/deployment.md)
 
 ## Backend
 
