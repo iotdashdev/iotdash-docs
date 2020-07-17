@@ -6,7 +6,7 @@ description: Authentication and Authorization
 
 
 
-{% api-method method="post" host="https://api.cakes.com" path="/v1/cakes/:id" %}
+{% api-method method="post" host="api/" path="login" %}
 {% api-method-summary %}
 Login
 {% endapi-method-summary %}
@@ -47,7 +47,7 @@ Return user data with signed-in token. Token is only valid for 1 hour.
 {% endapi-method-spec %}
 {% endapi-method %}
 
-{% api-method method="post" host="" path="" %}
+{% api-method method="post" host="api" path="/signup" %}
 {% api-method-summary %}
 Sign Up
 {% endapi-method-summary %}
