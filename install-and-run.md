@@ -14,7 +14,7 @@ Clone the follow project
 
 Becoming a super hero is a fairly straight forward process:
 
-```
+```bash
 $ give me super-powers
 ```
 
