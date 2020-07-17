@@ -1,11 +1,11 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [Architecture Overview](architecture-overview.md)
+* [Architecture](architecture-overview.md)
 
 ## Frontend
 
-* [Overview](frontend/untitled.md)
+* [Overview](frontend/overview.md)
 * [Architecture](frontend/architecture.md)
 
 ## Backend
@@ -15,7 +15,7 @@
 ## APIs
 
 * [Hub APIs](apis/hub-apis.md)
-* [Device APIs](apis/untitled.md)
+* [Device APIs](apis/device-apis.md)
 * [Command APIs](apis/command-apis.md)
 * [Authentication APIs](apis/user-apis.md)
 
