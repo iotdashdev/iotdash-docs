@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
 * [Architecture](architecture-overview.md)
+* [Install & Run](install-and-run.md)
 
 ## Frontend
 
