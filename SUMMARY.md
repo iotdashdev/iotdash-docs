@@ -12,6 +12,7 @@
 ## Backend
 
 * [Overview](backend/untitled.md)
+* [Deployment](backend/deployment.md)
 
 ## APIs
 
@@ -19,4 +20,8 @@
 * [Device APIs](apis/device-apis.md)
 * [Command APIs](apis/command-apis.md)
 * [Authentication APIs](apis/user-apis.md)
+
+---
+
+* [index](untitled.md)
 

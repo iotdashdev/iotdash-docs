@@ -5,65 +5,10 @@ description: APIs start with api/device
 # Device APIs
 
 {% api-method method="get" host="api/device" path="/devices" %}
-{% api-method-summary %}
-Get Devices
-{% endapi-method-summary %}
-
-{% api-method-description %}
-This endpoint allows you to get free cakes.
-{% endapi-method-description %}
-
-{% api-method-spec %}
-{% api-method-request %}
-
-{% api-method-response %}
-{% api-method-response-example httpCode=200 %}
-{% api-method-response-example-description %}
-Cake successfully retrieved.
-{% endapi-method-response-example-description %}
-
-```
-{
-    "devices": [
-        {
-            "_id": "5f1067f533612a867c8c6763",
-            "value": 0,
-            "name": "node-1",
-            "description": "A device for",
-            "ipAddress": "192.168.56.1",
-            "port": "5000",
-            "historical": [
-                {
-                    "lastModified": 1594910709226,
-                    "_id": "5f1067f533612a867c8c6764",
-                    "value": 0
-                }
-            ],
-            "hub": "5f1067c933612a867c8c675e",
-            "lastModified": 1594910709227,
-            "__v": 0
-        },
-    ]
-}
-```
-{% endapi-method-response-example %}
-
-{% api-method-response-example httpCode=404 %}
-{% api-method-response-example-description %}
-Could not find a cake matching this query.
-{% endapi-method-response-example-description %}
-
-```
-{    "message": "Ain't no cake like that."}
-```
-{% endapi-method-response-example %}
-{% endapi-method-response %}
-{% endapi-method-spec %}
-{% endapi-method %}
 
 {% api-method method="post" host="device/api" path="/create" %}
 {% api-method-summary %}
-CREATE Device
+
 {% endapi-method-summary %}
 
 {% api-method-description %}
@@ -101,15 +46,13 @@ sf
 
 {% endapi-method-response-example-description %}
 
-```
+```text
 
 ```
 {% endapi-method-response-example %}
 {% endapi-method-response %}
 {% endapi-method-spec %}
 {% endapi-method %}
-
-
 
 {% api-method method="get" host="api/device" path="/get/:id" %}
 {% api-method-summary %}
@@ -135,7 +78,7 @@ GET Device
 
 {% endapi-method-response-example-description %}
 
-```
+```text
 
 ```
 {% endapi-method-response-example %}
@@ -183,7 +126,7 @@ UPDATE Device
 
 {% endapi-method-response-example-description %}
 
-```
+```text
 {
     "device": {
         "_id": "5f112161be3f819548d05e4f",
@@ -212,8 +155,6 @@ UPDATE Device
 {% endapi-method-spec %}
 {% endapi-method %}
 
-
-
 {% api-method method="delete" host="device/api" path="/delete/:id" %}
 {% api-method-summary %}
 DELETE Device
@@ -238,7 +179,7 @@ DELETE Device
 Deleted device
 {% endapi-method-response-example-description %}
 
-```
+```text
 {
     "device": {
         "_id": "5f1067f533612a867c8c6763",
@@ -266,8 +207,6 @@ Deleted device
 {% endapi-method-response %}
 {% endapi-method-spec %}
 {% endapi-method %}
-
-
 
 {% api-method method="patch" host="device/api" path="/updatevalue" %}
 {% api-method-summary %}
@@ -297,7 +236,7 @@ new value
 
 {% endapi-method-response-example-description %}
 
-```
+```text
 {
     "device": {
         "_id": "5f1067f533612a867c8c6763",

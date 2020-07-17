@@ -1,6 +1,6 @@
 # Deployment
 
-### Deploy react-app on Firebase
+### Install Firebase CLI using npm
 
 First, install the firebase CLI
 
@@ -8,11 +8,15 @@ First, install the firebase CLI
 npm install -g firebase-tools
 ```
 
+### Login to Firebase
+
 Next associate the Firebase CLI with a Firebase account \(Google account\):
 
 ```text
 firebase login
 ```
+
+### Deploy 
 
 Next, move to the project's folder and execute the following command, which initializes a Firebase project for the Firebase hosting features:
 
