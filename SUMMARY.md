@@ -7,12 +7,10 @@
 
 ## Frontend
 
-* [Overview](frontend/overview.md)
 * [Deployment](frontend/deployment.md)
 
 ## Backend
 
-* [Overview](backend/untitled.md)
 * [Deployment](backend/deployment.md)
 
 ## APIs

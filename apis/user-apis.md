@@ -6,13 +6,13 @@ description: Authentication and Authorization
 
 
 
-{% api-method method="post" host="api/" path="login" %}
+{% api-method method="post" host="api/user/" path="login" %}
 {% api-method-summary %}
 Login
 {% endapi-method-summary %}
 
 {% api-method-description %}
-This endpoint allows you to get free cakes.
+Login to acquire a token
 {% endapi-method-description %}
 
 {% api-method-spec %}
@@ -47,7 +47,7 @@ Return user data with signed-in token. Token is only valid for 1 hour.
 {% endapi-method-spec %}
 {% endapi-method %}
 
-{% api-method method="post" host="api" path="/signup" %}
+{% api-method method="post" host="api/user" path="/signup" %}
 {% api-method-summary %}
 Sign Up
 {% endapi-method-summary %}
