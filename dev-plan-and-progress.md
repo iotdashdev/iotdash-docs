@@ -1,5 +1,5 @@
 ---
-description: Development Plan Progress and plan from KUN
+description: KUN's progress and plan
 ---
 
 # Dev Plan & Progress
