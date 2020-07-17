@@ -3,6 +3,7 @@
 * [Introduction](README.md)
 * [Architecture](architecture-overview.md)
 * [Install & Run](install-and-run.md)
+* [Dev Plan & Progress](dev-plan-and-progress.md)
 
 ## Frontend
 
@@ -20,4 +21,8 @@
 * [Device APIs](apis/device-apis.md)
 * [Command APIs](apis/command-apis.md)
 * [Authentication APIs](apis/user-apis.md)
+
+## Local Python Server
+
+* [Integration](local-python-server/integration.md)
 
