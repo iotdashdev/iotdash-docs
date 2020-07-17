@@ -16,6 +16,7 @@ description: Kun's progress and plan.
   * [x] Install, Set-up, Deploy
   * [x] APIs 
   * [ ] Integration guide ❗
+  * [ ] Database Set-up, Access & Deploy ❗
   * [ ] Backend overview
   * [ ] Frontend overview
 * [ ] Network diagram 
