@@ -38,7 +38,8 @@ description: Kun's progress and plan.
   * [ ] Add side panel ❗
   * [ ] Add filter for hub, or a search bar
   * [x] Appbar polish =&gt; add icon button with toothtip
-  * [ ] Add logout 🍳
+  * [x] Add logout 🍳
+  * [ ] Beautify pop-up forms  \(Create/Delete/Edit\)
 
 ## Week 11 \(20th - 24th, July\)
 
