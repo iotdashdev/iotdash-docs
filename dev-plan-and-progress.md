@@ -21,7 +21,7 @@ description: Kun's progress and plan.
 * [ ] Documentation for:
   * [x] Install, Set-up, Deploy
   * [x] APIs 
-  * [ ] Integration guide ❗
+  * [ ] Integration guide ❗ ❗
   * [ ] Database Set-up, Access & Deploy ❗
   * [ ] Backend overview
   * [ ] Frontend overview
@@ -33,15 +33,12 @@ description: Kun's progress and plan.
   * [ ] Polish data display of hub/device on Network diagram page 🍳
 * [ ] UI Polishment
   * [ ] Polish manage page \(The page to view all hubs and their devices\) ❗
+  * [ ] Hub Page  ❗ ❗ ❗ 
   * [ ] Remove device page and add hub page to view all devices of particular hub ❗
   * [ ] Add side panel ❗
   * [ ] Add filter for hub, or a search bar
   * [x] Appbar polish =&gt; add icon button with toothtip
   * [ ] Add logout 🍳
-* [ ] Responsive table view ❗❗❗❗❗❗ 
-  * [ ] See reference: [https://react-bootstrap-table.github.io/react-bootstrap-table2/storybook/index.html?selectedKind=Basic%20Table&selectedStory=Exposed%20API&full=0&addons=1&stories=1&panelRight=0&addonPanel=storybook%2Factions%2Factions-panel](https://react-bootstrap-table.github.io/react-bootstrap-table2/storybook/index.html?selectedKind=Basic%20Table&selectedStory=Exposed%20API&full=0&addons=1&stories=1&panelRight=0&addonPanel=storybook%2Factions%2Factions-panel)
-  * [ ] Filter
-  * [ ] Expandable/Collapsible row to show hub.devices  
 
 ## Week 11 \(20th - 24th, July\)
 
