@@ -10,7 +10,7 @@ Refer to
 
 Install HeroKu CLI: [https://devcenter.heroku.com/articles/heroku-cli](https://devcenter.heroku.com/articles/heroku-cli)
 
-Deploy: [https://devcenter.heroku.com/categories/deployment](https://devcenter.heroku.com/categories/deployment)
+Deploy:[ https://devcenter.heroku.com/categories/deployment](https://devcenter.heroku.com/articles/git)
 
 ## Set-Up Global Environment Variable
 
