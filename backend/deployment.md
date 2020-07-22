@@ -6,7 +6,11 @@ description: The backend system is deployed to Heroku
 
 ## Install & Deploy on Heroku
 
-Refer to [https://devcenter.heroku.com/articles/heroku-cli](https://devcenter.heroku.com/articles/heroku-cli)
+Refer to 
+
+Install HeroKu CLI: [https://devcenter.heroku.com/articles/heroku-cli](https://devcenter.heroku.com/articles/heroku-cli)
+
+Deploy: [https://devcenter.heroku.com/categories/deployment](https://devcenter.heroku.com/categories/deployment)
 
 ## Set-Up Global Environment Variable
 
