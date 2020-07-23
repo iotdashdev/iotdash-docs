@@ -25,7 +25,18 @@ Cake successfully retrieved.
 {% endapi-method-response-example-description %}
 
 ```
-
+{
+    "hub": {
+        "devices": [],
+        "_id": "5f1067d833612a867c8c675f",
+        "name": "hub-2",
+        "description": "long-sentenceslong-sentences",
+        "ipAddress": "192.27.221.30",
+        "port": "3000",
+        "lastModified": 1594910680898,
+        "id": "5f1067d833612a867c8c675f"
+    }
+}
 ```
 {% endapi-method-response-example %}
 {% endapi-method-response %}
