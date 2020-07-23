@@ -14,10 +14,6 @@ description: Kun's progress and plan.
 
 ## Week 10 \(13th - 19th, July\).
 
-* [ ] Responsive table view ❗❗❗❗❗❗ 
-  * [ ] See reference: [https://react-bootstrap-table.github.io/react-bootstrap-table2/storybook/index.html?selectedKind=Basic%20Table&selectedStory=Exposed%20API&full=0&addons=1&stories=1&panelRight=0&addonPanel=storybook%2Factions%2Factions-panel](https://react-bootstrap-table.github.io/react-bootstrap-table2/storybook/index.html?selectedKind=Basic%20Table&selectedStory=Exposed%20API&full=0&addons=1&stories=1&panelRight=0&addonPanel=storybook%2Factions%2Factions-panel)
-  * [ ] Filter
-  * [ ] Expandable/Collapsible row to show hub.devices  
 * [ ] Documentation for:
   * [x] Install, Set-up, Deploy
   * [x] APIs 
@@ -31,15 +27,6 @@ description: Kun's progress and plan.
   * [ ] Tree-like structure option 🍳
   * [ ] Randomize node positioning option 🍳
   * [ ] Polish data display of hub/device on Network diagram page 🍳
-* [ ] UI Polishment
-  * [ ] Polish manage page \(The page to view all hubs and their devices\) ❗
-  * [ ] Hub Page  ❗ ❗ ❗ 
-  * [ ] Remove device page and add hub page to view all devices of particular hub ❗
-  * [ ] Add side panel ❗
-  * [ ] Add filter for hub, or a search bar
-  * [x] Appbar polish =&gt; add icon button with toothtip
-  * [x] Add logout 🍳
-  * [ ] Beautify pop-up forms  \(Create/Delete/Edit\)
 
 ## Week 11 \(20th - 24th, July\)
 
@@ -49,6 +36,21 @@ description: Kun's progress and plan.
 * [ ] Security 😅
   * [ ] Add token verification for http request
   * [ ] Limit MongoDB access to only backend hosting address
+* [ ] UI Polishment
+  * [ ] ~~Polish manage page \(The page to view all hubs and their devices\) ❗~~
+  * [ ] Hub Page  ❗ ❗ ❗ 
+  * [ ] Remove device page and add hub page to view all devices of particular hub ❗
+  * [ ] Add side panel ❗
+  * [x] Add filter for hub, or a search bar
+  * [x] Appbar polish =&gt; add icon button with toothtip
+  * [x] Add logout 🍳
+  * [ ] Beautify pop-up forms  \(Create/Delete/Edit\)
+* [ ] Responsive table view ❗❗❗❗❗❗ 
+  * [ ] See reference: [https://react-bootstrap-table.github.io/react-bootstrap-table2/storybook/index.html?selectedKind=Basic%20Table&selectedStory=Exposed%20API&full=0&addons=1&stories=1&panelRight=0&addonPanel=storybook%2Factions%2Factions-panel](https://react-bootstrap-table.github.io/react-bootstrap-table2/storybook/index.html?selectedKind=Basic%20Table&selectedStory=Exposed%20API&full=0&addons=1&stories=1&panelRight=0&addonPanel=storybook%2Factions%2Factions-panel)
+  * [x] Filter
+  * [x] Expandable/Collapsible row to show hub.devices  
+  * [x] Buttons to edit/delete/add hub
+  * [x] Buttons to edit/delete/add devices
 
 ## Week 12 \(27th - 31th, July\)
 
