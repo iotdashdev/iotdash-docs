@@ -22,9 +22,5 @@
 
 ## Local Python Server
 
-* [Integration](local-python-server/integration.md)
-
----
-
-* [Untitled](untitled.md)
+* [Integration of python server](local-python-server/integration.md)
 
