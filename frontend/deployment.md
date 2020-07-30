@@ -8,6 +8,20 @@ First, install the firebase CLI
 npm install -g firebase-tools
 ```
 
+### Before Deployment
+
+{% hint style="danger" %}
+Before build, make sure your backend api is correctly set up.
+{% endhint %}
+
+To set up backend api, go to **.env** file under the project directory, as change the **REACT\_APP\_BACKEND\_API\_KEY** to your deployed backend api.
+
+Build your react app 
+
+```text
+npm run build
+```
+
 ### Login to Firebase
 
 Next associate the Firebase CLI with a Firebase account \(Google account\):
@@ -16,7 +30,7 @@ Next associate the Firebase CLI with a Firebase account \(Google account\):
 firebase login
 ```
 
-### Deploy 
+### Init project
 
 Next, move to the project's folder and execute the following command, which initializes a Firebase project for the Firebase hosting features:
 
@@ -36,7 +50,7 @@ Select your Firebase project from a list of projects from the Firebase platform
 
 ![](../.gitbook/assets/image%20%283%29.png)
 
-Deploy
+### Deploy
 
 ```text
 Firebase deploy

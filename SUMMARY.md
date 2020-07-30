@@ -8,6 +8,8 @@
 ## Frontend
 
 * [Deployment](frontend/deployment.md)
+* [Dev & Test](frontend/dev-and-test.md)
+* [Network diagram](frontend/network-diagram.md)
 
 ## Backend
 
