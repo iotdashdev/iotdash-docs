@@ -17,7 +17,7 @@ description: Kun's progress and plan.
 * [ ] Documentation for:
   * [x] Install, Set-up, Deploy
   * [x] APIs 
-  * [ ] Integration guide ❗ ❗
+  * [x] Integration guide ❗ ❗
   * [ ] Database Set-up, Access & Deploy ❗
   * [ ] Backend overview
   * [ ] Frontend overview
@@ -38,15 +38,15 @@ description: Kun's progress and plan.
   * [ ] Limit MongoDB access to only backend hosting address
 * [ ] UI Polishment
   * [ ] ~~Polish manage page \(The page to view all hubs and their devices\) ❗~~
-  * [ ] Hub Page  ❗ ❗ ❗ 
-  * [ ] Remove device page and add hub page to view all devices of particular hub ❗
+  * [x] Hub Page  ❗ ❗ ❗ 
+  * [x] Remove device page and add hub page to view all devices of particular hub ❗
   * [ ] Add side panel ❗
   * [x] Add filter for hub, or a search bar
   * [x] Appbar polish =&gt; add icon button with toothtip
   * [x] Add logout 🍳
   * [ ] Beautify pop-up forms  \(Create/Delete/Edit\)
-* [ ] Responsive table view ❗❗❗❗❗❗ 
-  * [ ] See reference: [https://react-bootstrap-table.github.io/react-bootstrap-table2/storybook/index.html?selectedKind=Basic%20Table&selectedStory=Exposed%20API&full=0&addons=1&stories=1&panelRight=0&addonPanel=storybook%2Factions%2Factions-panel](https://react-bootstrap-table.github.io/react-bootstrap-table2/storybook/index.html?selectedKind=Basic%20Table&selectedStory=Exposed%20API&full=0&addons=1&stories=1&panelRight=0&addonPanel=storybook%2Factions%2Factions-panel)
+* [x] Responsive table view ❗❗❗❗❗❗ 
+  * [x] See reference: [https://react-bootstrap-table.github.io/react-bootstrap-table2/storybook/index.html?selectedKind=Basic%20Table&selectedStory=Exposed%20API&full=0&addons=1&stories=1&panelRight=0&addonPanel=storybook%2Factions%2Factions-panel](https://react-bootstrap-table.github.io/react-bootstrap-table2/storybook/index.html?selectedKind=Basic%20Table&selectedStory=Exposed%20API&full=0&addons=1&stories=1&panelRight=0&addonPanel=storybook%2Factions%2Factions-panel)
   * [x] Filter
   * [x] Expandable/Collapsible row to show hub.devices  
   * [x] Buttons to edit/delete/add hub
@@ -54,8 +54,8 @@ description: Kun's progress and plan.
 
 ## Week 12 \(27th - 31th, July\)
 
-* [ ] Socket Connection from **browser to local raspberry-pi**\(Hub\)
-  * [ ] To achieve real time streaming of data without passing through backend cloud
+* [x] Socket Connection from **browser to local raspberry-pi**\(Hub\)
+  * [x] To achieve real time streaming of data without passing through backend cloud
 * [ ] Research and demo more data visualization methods/form
   * [ ] More network node diagram
   * [ ] Responsive 2d chart with pop-up card
