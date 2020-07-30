@@ -4,6 +4,7 @@
 * [Dev Plan & Progress](dev-plan-and-progress.md)
 * [Architecture](architecture-overview.md)
 * [Install & Run](install-and-run.md)
+* [Possible Add-ons](possible-add-ons.md)
 
 ## Frontend
 

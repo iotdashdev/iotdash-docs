@@ -2,7 +2,7 @@
 
 The whole system is separated into two parts, the web-cloud and local. The cloud consists of modules serving a web application. The local, consists of python scripts running on lab machine and respberry-pi.
 
-![architecture diagram](.gitbook/assets/untitled-diagram-4-.png)
+![](.gitbook/assets/untitled-diagram-4-%20%281%29.png)
 
 ## Web Cloud
 
